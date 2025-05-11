@@ -42,7 +42,7 @@ Install the required Node.js packages:
 
 ## 4. Configure config.env
 
-Open `config.env` and add:
+Open `config.env` and add the string below (one per line):
 
 `` SHAPESINC_API_KEY=your_shapes_api_key
 SHAPESINC_SHAPE_USERNAME=your_shapes_model_name
