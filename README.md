@@ -4,6 +4,18 @@ A basic implementation of shapes.inc into corvy.chat.
 
 -----------------------------------------------------
 
+# Before you start
+
+## 1. Inviting the bot.
+
+Go to your bot settings, and then press "Add to Flock", with the correct flock selected, and then, you should be ready to start!
+
+## 2. Extras
+
+If you're trying to add the shape to another flock, ask an Admin or the Owner of that flock to add it for you, with your bot invite (which should release soon)
+
+-----------------------------------------------------
+
 # Set Up Guide
 
 ## 1. Prerequisites
