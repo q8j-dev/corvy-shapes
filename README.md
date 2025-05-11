@@ -1,4 +1,4 @@
-[![image](https://corvy.chat/icons/icon-192x192.png))]
+[![image](https://corvy.chat/icons/icon-192x192.png)](https://corvy.chat)
 
 # Shapes on Corvy [JS]!
 
