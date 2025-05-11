@@ -38,13 +38,13 @@ CORVY_BOT_TOKEN=your_corvy_bot_token
 
 Replace with your actual API keys and model name, which can be found at https://shapes.inc/developer (shapes api key), and https://corvy.chat/developers (corvy api key).
 
-## 5. Add bot.js
+## 5. SDK and Bot
 
-Download `bot.js` from this repository, and then drag into your bot folder, where config.env is located.
+Download `bot.js` and `corvy-sdk` from this repository, and then drag into your bot folder (the same one where config.env is located).
 
 ## 6. Run the Bot
 
-`node bot.js`
+`node bot.js` inside of the folder with the files.
 
 ## 7. Confirm It’s Working
 
