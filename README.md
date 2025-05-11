@@ -1,4 +1,4 @@
-# Shapes on Corvy [JS]!
+# Shapes on Corvy [JS]! https://corvy.chat/icons/icon-192x192.png
 
 A basic implementation of shapes.inc into corvy.chat.
 
