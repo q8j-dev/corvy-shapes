@@ -32,9 +32,9 @@ Install the required Node.js packages:
 
 Open `config.env` and add:
 
-` SHAPESINC_API_KEY=your_shapes_api_key
+SHAPESINC_API_KEY=your_shapes_api_key
 SHAPESINC_SHAPE_USERNAME=your_shapes_model_name
-CORVY_BOT_TOKEN=your_corvy_bot_token `
+CORVY_BOT_TOKEN=your_corvy_bot_token
 
 Replace with your actual API keys and model name.
 
