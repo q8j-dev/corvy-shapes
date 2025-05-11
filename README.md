@@ -44,9 +44,9 @@ Install the required Node.js packages:
 
 Open `config.env` and add:
 
-SHAPESINC_API_KEY=your_shapes_api_key
+`` SHAPESINC_API_KEY=your_shapes_api_key
 SHAPESINC_SHAPE_USERNAME=your_shapes_model_name
-CORVY_BOT_TOKEN=your_corvy_bot_token
+CORVY_BOT_TOKEN=your_corvy_bot_token ``
 
 Replace with your actual API keys and model name, which can be found at https://shapes.inc/developer (shapes api key), and https://corvy.chat/developers (corvy api key).
 
@@ -67,10 +67,6 @@ Go to your flock/nest where the bot is active and try commands like:
 !imagine A Corvus flying in the sky
 
 The bot should reply with either text or image URLs.
-
-SHAPESINC_API_KEY=your_shapes_api_key
-SHAPESINC_API_KEY=your_shapes_api_key
-SHAPESINC_API_KEY=your_shapes_api_key
 
 
 
