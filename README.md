@@ -1,4 +1,4 @@
-![Corvi](https://raw.githubusercontent.com/q8j-dev/corvy-shapes-assets/refs/heads/main/corvi.png)
+[![Corvi](https://raw.githubusercontent.com/q8j-dev/corvy-shapes-assets/refs/heads/main/corvi.png)](https://corvy.chat)
 
 # Shapes on Corvy [JS]!
 
