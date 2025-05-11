@@ -19,7 +19,7 @@ Create your project folder and files:
 
 `mkdir shape-corvy
 cd shape-corvy
-touch bot.js config.env
+touch config.env
 npm init -y`
 
 ## 3. Install Dependencies
@@ -36,13 +36,17 @@ SHAPESINC_API_KEY=your_shapes_api_key
 SHAPESINC_SHAPE_USERNAME=your_shapes_model_name
 CORVY_BOT_TOKEN=your_corvy_bot_token
 
-Replace with your actual API keys and model name.
+Replace with your actual API keys and model name, which can be found at https://shapes.inc/developer (shapes api key), and https://corvy.chat/developers (corvy api key).
 
-## 5. Run the Bot
+## 5. Add bot.js
+
+Download `bot.js` from this repository, and then drag into your bot folder, where config.env is located.
+
+## 6. Run the Bot
 
 `node bot.js`
 
-## 6. Confirm It’s Working
+## 7. Confirm It’s Working
 
 Go to your flock/nest where the bot is active and try commands like:
 
