@@ -68,5 +68,9 @@ Go to your flock/nest where the bot is active and try commands like:
 
 The bot should reply with either text or image URLs.
 
+SHAPESINC_API_KEY=your_shapes_api_key
+SHAPESINC_API_KEY=your_shapes_api_key
+SHAPESINC_API_KEY=your_shapes_api_key
+
 
 
