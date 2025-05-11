@@ -2,9 +2,9 @@
 
 A basic implementation of shapes.inc into corvy.chat.
 
-# Set Up Guide
-
 -----------------------------------------------------
+
+# Set Up Guide
 
 ## 1. Prerequisites
 
