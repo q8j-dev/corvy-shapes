@@ -1,3 +1,5 @@
+[![image](https://corvy.chat/icons/icon-192x192.png))]
+
 # Shapes on Corvy [JS]!
 
 A basic implementation of shapes.inc into corvy.chat.
